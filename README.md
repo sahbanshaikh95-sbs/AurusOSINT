@@ -1,4 +1,4 @@
-# OSINT Aggregator
+# AurusOSINT
 
 Aggregates **PhoneInfoga, Shodan, WHOIS and theHarvester** results into a structured
 report (JSON + Markdown + HTML) for any phone number, email or domain.
