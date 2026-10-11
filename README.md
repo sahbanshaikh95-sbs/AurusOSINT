@@ -12,6 +12,12 @@ report (JSON + Markdown + HTML) for any phone number, email or domain.
 chmod +x setup.sh && ./setup.sh
 ```
 
+##install on Linux
+
+'''bash
+gh repo clone sahbanshaikh95-sbs/AurusOSINT
+'''
+
 This installs `theharvester` and `whois`, creates a virtualenv, installs Python deps,
 saves your Shodan key to `.env`, optionally installs PhoneInfoga, and creates the `./osint` launcher.
 
